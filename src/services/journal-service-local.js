@@ -30,8 +30,10 @@ export const deleteJournal = (journalToDelete) => {
   return journals;
 }
 
-export default {
+const api = {
   findAllJournals,
   createJournal,
   deleteJournal,
-}
+};
+
+export default api;

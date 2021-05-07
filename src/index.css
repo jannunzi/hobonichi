@@ -1,25 +1,27 @@
-html {
-  height: 100%;
-  width: 100%;
-}
+@import "~bootstrap/dist/css/bootstrap.min.css";
 
-body {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/*html {*/
+/*  height: 100%;*/
+/*  width: 100%;*/
+/*}*/
 
-#root {
-  height: 100%;
-  width: 100%;
-}
+/*body {*/
+/*  height: 100%;*/
+/*  width: 100%;*/
+/*  margin: 0;*/
+/*  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',*/
+/*    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',*/
+/*    sans-serif;*/
+/*  -webkit-font-smoothing: antialiased;*/
+/*  -moz-osx-font-smoothing: grayscale;*/
+/*}*/
 
-.full-size {
+/*#root {*/
+/*  height: 100%;*/
+/*  width: 100%;*/
+/*}*/
+
+.jga-full-size {
   height: 100%;
   width: 100%;
 }

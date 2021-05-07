@@ -1,7 +1,11 @@
+import React from "react";
+import {HashRouter, Route} from "react-router-dom";
+import {JournalGrid} from "./components/journal-grid";
 
 function App() {
   return (
-    <div contentEditable={true} className="full-size">
+    <div className="container">
+      <JournalGrid/>
     </div>
   );
 }
